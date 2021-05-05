@@ -6,7 +6,7 @@ resources:
       files:
         include: ^back\/.+
       gitProvider: johncab_github
-      path: johncab/SwampUp2021
+      path: john-cab/SwampUp2021
 
   - name: back_app_build_info
     type: BuildInfo
