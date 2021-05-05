@@ -5,8 +5,8 @@ resources:
     configuration:
       files:
         include: ^back\/.+
-      gitProvider: talitz_github
-      path: talitz/SwampUp2021
+      gitProvider: johncab_github
+      path: johncab/SwampUp2021
 
   - name: back_app_build_info
     type: BuildInfo
