@@ -6,7 +6,7 @@ resources:
       files:
         include: ^front\/.+
       gitProvider: johncab_github
-      path: johncab/SwampUp2021
+      path: john-cab/SwampUp2021
 
   - name: FrontAppBuildInfo
     type: BuildInfo
