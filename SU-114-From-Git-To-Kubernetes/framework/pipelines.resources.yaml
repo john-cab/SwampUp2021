@@ -4,8 +4,8 @@ resources:
     configuration:
       files:
         include: ^framework\/.+
-      path: talitz/SwampUp2021
-      gitProvider: talitz_github
+      path: john-cab/SwampUp2021
+      gitProvider: johncab_github
 
   - name: framework_generic_fileSpec
     type: FileSpec
